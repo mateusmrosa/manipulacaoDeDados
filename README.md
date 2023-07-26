@@ -1,2 +1,2 @@
-# manipulacaoDeDados
+# manipulandoDados
 Desafio Dev Fullstack PHP
